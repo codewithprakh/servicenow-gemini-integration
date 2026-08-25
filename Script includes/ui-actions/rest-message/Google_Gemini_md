@@ -1,0 +1,25 @@
+📁 docs
+   └── Architecture.md
+
+📁 rest-message
+   └── Google_Gemini.md
+
+📁 script-includes
+   └── GeminiIntegration.js
+
+📁 screenshots
+   ├── rest-message.png
+   ├── script-include.png
+   ├── ui-action.png
+   └── successful-response.png
+
+📁 table
+   └── GeminiPromptHistory.md
+
+📁 testing
+   └── Test-Cases.md
+
+📁 ui-actions
+   └── GenerateGeminiResponse.js
+
+📄 README.md
